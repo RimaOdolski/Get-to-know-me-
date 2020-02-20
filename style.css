@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8;
+    font-family: monospace;
+    background-color: #FF6F61;
+  
+  }
+  
+  .bgimg-1 {
+    min-height: 100%;
+    background-color: #FF6F61;
+  }
+  .social {
+    margin-top: 20px;
+ }
+
+ .title{
+     font-size: 20px;
+     letter-spacing: 2px;
+     color:aliceblue;
+     
+ }
+
+.socialicon{
+  height: 50px;
+ width: 50px
+ }
+
+
+ h1 { 
+     font-size: 3.5em; 
+     color: pink;
+ }
+
+ .caption {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+  
+  .caption span.border1 {
+    
+    color: aliceblue;
+    padding: 18px;
+    font-size: 65px;
+    letter-spacing: 5px;
+  } 
